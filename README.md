@@ -13,7 +13,7 @@ Simple and user-friendly interface.
 
 ## Getting Started
 
-Clone the Repository:
+## Clone the Repository:
 
 ```bash
 git clone https://github.com/karan2527/currency_converter.git  
